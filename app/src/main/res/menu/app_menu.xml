@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/itemOne"
+          android:title="Reload Data"
+        >
+        <menu>
+            <item android:id="@+id/subOne"
+                  android:title="sub one"
+                >
+
+            </item>
+            <item android:id="@+id/subTwo"
+                  android:title="sub two"
+                >
+
+            </item>
+        </menu>
+    </item>
+
+</menu>
